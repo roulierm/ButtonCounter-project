@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Button-Counter-Roulier</string>
+    <string name="_0_clicks">0 Clicks</string>
+    <string name="increment">Increment</string>
+    <string name="decrement">Decrement</string>
+    <string name="reset">Reset</string>
 </resources>
